@@ -1,0 +1,15 @@
+# Python caches
+__pycache__/
+*.pyc
+
+# Environment variables
+.env
+
+# Downloads / temp files
+downloads/
+*.mp3
+
+# IDE / OS files
+.vscode/
+.DS_Store
+Thumbs.db
